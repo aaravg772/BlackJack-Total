@@ -1,6 +1,6 @@
 # BlackJack-Total
 
-This is a **Blackjack Game/Mechanics Package** (in dev), this will provide you with full **mechanics** of the game, along with a **minmax formula** to make the dealer smart (scrapped de to it being too simple as it's only 2 actions), a **text based** version of the **full game**, and a **graphic based** version too.
+This is a **Blackjack Game/Mechanics Package** (in dev), this will provide you with full **mechanics** of the game, along with a **minmax formula** to make the dealer smart (scrapped de to it being too simple as it's only 2 actions), a **text based** version of the **full game**, and a **graphic based** version too. **EDIT**: There may be a networking part added, allowing other people to join with their laptops as a player (will be limited to **LAN** if implemented)
 
 **DEPENDENCIES (WILL BE UPDATED AS DEVELOPMENT CONTINUES)**
 **RANDOM**
