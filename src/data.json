@@ -1,1 +1,7 @@
-
+{
+    "num_players": 0,
+    "dhand": [],
+    "dscore": 0,
+    "dbust": 0,
+    "players_data": {}
+}
